@@ -1,0 +1,6 @@
+{
+  "build_break_rules": {
+    "default": {"max_critical": 2, "max_high": 5, "max_medium": 15},
+    "Security audit for PHP": {"max_critical": 2, "max_high": 50, "max_medium": 500}
+  }
+}
