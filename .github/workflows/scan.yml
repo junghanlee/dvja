@@ -2,6 +2,7 @@ name: SL Scan
 
 on: push
 
+
 jobs:
   NextGen-Static-Analysis:   
     runs-on: ubuntu-20.04
